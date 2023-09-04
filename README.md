@@ -11,13 +11,13 @@ Projeto desenvolvido a partir dos módulos estudados do curso Sistema para Inter
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" width="400px" height="800px">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Imagem do protótipo do site" src="./app/src/main/res/drawable/print-screen.png" width="100%">
+  <img alt="Imagem do protótipo do site" src="./app/src/main/res/drawable/print-screen.png"  width="200px" height="500px">
 </p>
 
 ## 🚀 Tecnologias
