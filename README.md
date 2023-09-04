@@ -17,7 +17,7 @@ Projeto desenvolvido a partir dos módulos estudados do curso Sistema para Inter
 <br>
 
 <p align="center">
-  <img alt="Imagem do protótipo do site" src="./app/src/main/res/drawable/print-screen.png"  width="200px" height="500px">
+  <img alt="Imagem do protótipo do site" src="./app/src/main/res/drawable/print-screen.png"  width="200px" height="400px">
 </p>
 
 ## 🚀 Tecnologias
